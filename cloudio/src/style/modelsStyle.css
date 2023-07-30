@@ -1,0 +1,73 @@
+.model-management-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 16px;
+    border-radius: 8px;
+    color: #000;
+  }
+.model-management-container {
+background-color: #fff;
+
+}
+.model-management-modal {
+    margin: 0 auto;
+    margin-top: 200px;
+    color: #000;
+    width: 300px;
+    height: 600px ;
+    border-radius: 8px;
+
+}
+
+.model-management-modal-content {
+    background-color: #fff;
+    justify-content: center;
+    width: 300px;
+    height: 330px;
+    margin-left: 20px;
+    margin: 0 auto;
+    width: 100%;
+    display: 'flex';
+    border-radius: 8px;
+    align-items: center;
+}
+.modal-management-title-container {
+  display: flex;
+  justify-content: center;
+}
+.modal-management-title {
+  margin-top: 15px;
+
+}
+  .model-management-title {
+    margin-bottom: 16px;
+    background-color: #fff;
+  }
+.model-management-form{
+    margin: 20px;
+}
+  .model-management-list {
+    margin-bottom: 16px;
+  }
+  
+  .model-management-message {
+    margin-bottom: 16px;
+    color: #888;
+  }
+  
+  .model-management-input {
+    background-color: #fff;
+    margin-top: 20px;
+  }
+
+  .model-management-radio {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .model-management-upload-btn {
+    margin-top: 16px;
+  }
+  

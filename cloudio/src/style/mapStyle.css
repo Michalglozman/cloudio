@@ -1,0 +1,51 @@
+.title-text {
+  color: white;
+  font-weight: bold;
+}
+
+
+.textFieldStyle label.Mui-focused {
+  color: #4fb5a7;
+}
+
+.textFieldStyle .MuiInput-underline:after {
+  border-bottom-color: #4fb5a7
+}
+
+.textFieldStyle input {
+  color: white;
+}
+
+.textFieldStyle .MuiFormControl-root {
+  margin-bottom: 12px;
+}
+
+.textFieldStyle .MuiFormControl-root:first-child {
+  margin-bottom: 20px;
+}
+
+.map-select {
+  margin: 8px 2px;
+  margin-top: 40px;
+  color: white;
+  border-radius: 4px;
+  background-color: #47a99b;
+  padding: 3px 3px; /* Adjust the padding values as needed */
+  font-size: 16px;
+
+}
+
+.map-select:hover {
+  background-color: #7bb6ad;
+}
+
+.map-select-title {
+  font-size: 1.1em;
+  color:rgb(216, 216, 216);
+  margin-left: 4px;
+}
+
+
+.btnsGrid {
+  margin-left: 4px;
+}
