@@ -1,7 +1,7 @@
 ##Cloudio
 
 Cloudio utilizes deep learning for advanced cloud detection. Predicting clouds in satellite imagery. Interactive maps sourced from Google Maps, GOES-18, and Landsat 8 satellites.
-#Short demo - 
+##Short demo - 
 https://github.com/Michalglozman/cloudio/assets/80041538/8b7938ca-281f-43fa-a286-abfe5e385733
 
 
